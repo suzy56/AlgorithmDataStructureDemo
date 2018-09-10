@@ -88,9 +88,7 @@ public class MyArrayList<E> {
         a.add(3);
         a.add(4);
         a.add(5);
-
         a.insert(1,8);
-
         b.add(1);
         System.out.println(a);
         //System.out.println(b.get(1));
