@@ -1,4 +1,4 @@
-package alogrithmTest.day0610;
+package alogrithmTest.standard_answer;
 
 public class LeetCodeDigitCounts {
 
@@ -39,7 +39,7 @@ public class LeetCodeDigitCounts {
 
 
     public static void main(String[] args) {
-        int ss = new LeetCodeDigitCounts().digitCounts(2,302);
+        int ss = new LeetCodeDigitCounts().digitCounts(0,10);
         System.out.println(ss);
     }
 }

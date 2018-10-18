@@ -1,4 +1,4 @@
-package alogrithmTest.day0610;
+package alogrithmTest.standard_answer;
 
 public class ListNode {
     int val;
